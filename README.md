@@ -20,6 +20,22 @@
   - 👯 I’m looking to collaborate on Deep Neural Network.
   - 🎓 Alumnus at BIT Mesra.
   - 📫 Shoot me a mail at sumitpardhiya@gmail.com
+  
+  
+  <table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/sumitpardhiya">
+        <img src="https://github-readme-stats.vercel.app/api?username=sumitpardhiya&show_icons=true&include_all_commits=true&theme=tokyonight">
+      <a/>
+    </td>
+    <td>
+      <a href="https://github.com/sumitpardhiya">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitpardhiya&layout=compact&theme=tokyonight">
+      <a/>
+    </td>
+   </tr>
+</table>
 <!--
 **sumitpardhiya/sumitpardhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

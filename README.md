@@ -16,7 +16,8 @@
 
   </p> 
   
-  - 🔭 I’m currently working on Samsung R & D Institute India, Delhi.
+  - 🔭 I’m currently working as an Image Processing Engineer at ACG World.
+  - 💡 Formerly, I worked at Samsung R&D Institute India, Delhi as a Machine Learning Engineer.
   - 👯 I’m looking to collaborate on Deep Neural Network.
   - 🎓 Alumnus at BIT Mesra.
   - 📫 Shoot me a mail at sumitpardhiya@gmail.com
